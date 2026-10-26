@@ -1,0 +1,22 @@
+﻿# Game files / Unity export - never commit
+ExportedProject/
+GameClean/
+Cuphead_Data/
+*.unity3d
+*.assets
+*.resS
+*.resource
+StreamingAssets/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]in/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+*.dll
+*.exe
+*.pdb
+*.zip
+.vs/
+*.user
